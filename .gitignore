@@ -23,3 +23,6 @@ buck-out/
 example
 .vscode
 /package.json
+android/.gradle/*
+android/.settings/*
+android/build/*
